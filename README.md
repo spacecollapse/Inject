@@ -1,12 +1,12 @@
 # Inject
 
 
-Всем привет с вами свнова я и сегодня у нас мега туториал 
+Всем привет с вами снова я и сегодня у нас мега туториал 
 
 Для начала инжекта нам нужно скачать сам инжектор
 Возьмем самый популярный Extreme
 
-Скачать его - https://github.com/defoxxx/cheats/releases/download/ex/Extreme.Injector.v3.exe
+Скачать его - https://github.com/spacecollapse/cheats/releases/download/ex/Extreme.Injector.v3.exe
 
 ![image](https://user-images.githubusercontent.com/53594431/198863049-c477223d-2537-4508-b27c-a4ad46ab8200.png)
 
