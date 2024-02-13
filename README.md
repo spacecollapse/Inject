@@ -24,7 +24,7 @@
 ![image](https://user-images.githubusercontent.com/53594431/198863103-14939410-b3c7-4745-adbb-d2cba929d62d.png)
 
 
-У нас открывается Process List где мы должны выбрать вашу игру
+У нас открывается Process List где мы должны выбрать вашу игру и нажать Select
 
 ![image](https://user-images.githubusercontent.com/53594431/198863129-bcc72754-fc55-4151-bcac-6a76e4e8b449.png)
 
